@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strintanco.github.io/sitemap.html.gz
+Sitemap: https://strintanco.github.io/app/sitemap.html.gz
+Sitemap: https://strintanco.github.io/assets/sitemap.html.gz
+Sitemap: https://strintanco.github.io/css/sitemap.html.gz
+Sitemap: https://strintanco.github.io/includes/sitemap.html.gz
+Sitemap: https://strintanco.github.io/item/sitemap.html.gz
+Sitemap: https://strintanco.github.io/src/sitemap.html.gz
